@@ -21,7 +21,7 @@ if a == "2":
 
     print("Game Over")
     print("★...출연...★")
-    scores = {"철수": '도라에몽', "퉁퉁이": '노진구' }
+    scores = {"이슬이": '도라에몽', "퉁퉁이": '노진구' }
  
 
     keys = scores.keys()
